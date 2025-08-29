@@ -52,7 +52,7 @@ For production-ready architectures and best practices (including DTO usage, mapp
    ├── entity/        → JPA Entities (Product, Category)
    ├── repository/    → Spring Data JPA repositories
    ├── service/       → Business logic
-   └── SpringBootApiStarterKitApplication.java
+   └── SpringBootApiStarterKitLiteApplication.java
    ```
 
 ## 📑 API Documentation

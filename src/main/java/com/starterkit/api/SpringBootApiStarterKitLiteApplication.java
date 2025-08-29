@@ -9,10 +9,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringBootApiStarterKitApplication {
+public class SpringBootApiStarterKitLiteApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBootApiStarterKitApplication.class, args);
+		SpringApplication.run(SpringBootApiStarterKitLiteApplication.class, args);
 	}
 
 }

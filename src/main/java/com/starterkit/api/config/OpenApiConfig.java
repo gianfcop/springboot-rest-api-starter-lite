@@ -21,7 +21,7 @@ public class OpenApiConfig {
             .info(new Info()
                 .title("StarterKit API")
                 .version("1.0.0")
-                .description("Spring Boot Starter Kit with JWT Authentication")
+                .description("A lightweight Spring Boot REST API starter kit with basic CRUD and Swagger documentation.")
                 .contact(new Contact()
                     .name("Your Name")
                     .email("contact@example.com"))
